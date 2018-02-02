@@ -8,7 +8,6 @@ Author: Alorian
 Author URI: http://www.verstaem.com/ 
 */
 
-
 /*************************************************************
 * 
 * HELP 
